@@ -1,2 +1,2 @@
-# Course-Object-Oriented-Programming
-Homework in the Object-Oriented Programming course
+# Object-Oriented-Programming
+Object-oriented programming projects
